@@ -1,17 +1,7 @@
 > 关于 JavaGuide 的相关介绍请看：[《从编程小白到做了一个接近 90k 点赞的一个国产 Java 开源项目》](https://www.yuque.com/snailclimb/dr6cvl/mr44yt#vu3ok)
 >
-> 准备面试的小伙伴可以考虑面试专版：[《Java 面试进阶指南》](https://xiaozhuanlan.com/javainterview?rel=javaguide) ，欢迎加入[我的星球](https://wx.zsxq.com/dweb2/index/group/48418884588288)获取更多实用干货。
+> 职场进阶辅导，欢迎加入[我的星球](https://wx.zsxq.com/dweb2/index/group/88512485242552)获取更多实用干货。
 >
-> 阿里云最近在做活动，服务器不到 10 元/月，小伙伴们搭建一个网站提高简历质量。支持国内开源做的比较好的公司！[点击此链接直达活动首页。](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=hf47liqn)
->
-> 项目的发展离不开你的支持，如果 JavaGuide 帮助到了你找到自己满意的 offer，那就[请作者喝杯咖啡吧](https://www.yuque.com/snailclimb/dr6cvl/mr44yt#vu3ok)☕！我会继续将项目完善下去！加油！
-
-如果 Github 访问速度比较慢或者图片无法刷新出来的话，可以转移到[码云](https://gitee.com/SnailClimb/JavaGuide)查看，或者[在线阅读](https://snailclimb.gitee.io/javaguide)。**如果你要提交 issue 或者 pr 的话请到 [Github](https://github.com/Snailclimb/JavaGuide) 提交。**
-
-《JavaGuide 面试突击版》PDF 版本+3 本 PDF Java 学习手册，在公众号 **[JavaGuide](#公众号)** 后台回复“**面试突击**”即可获取。
-
-如要进群或者请教问题，请[联系我](#联系我) （备注来自 Github。请直入问题，工作时间不回复）。
-
 **开始阅读之前必看** ：[完结撒花！JavaGuide 面试突击版来啦！](./docs/javaguide面试突击版.md) 。
 
 <p align="center">
